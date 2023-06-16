@@ -1,0 +1,14 @@
+{
+    "latest": 3.0,
+    "features": [
+        {
+            "feat": "New UI",
+        },
+        {
+            "feat": "Added more notes",
+        },
+        {
+            "feat": "Added more exciting features",
+        },
+    ]
+}
