@@ -1,14 +1,16 @@
 {
     "latest": 3.0,
+    "oldest": 2.0,
+    "forced": true,
     "features": [
         {
-            "feat": "New UI",
+            "feat": "New UI"
         },
         {
-            "feat": "Added more notes",
+            "feat": "Added more notes"
         },
         {
-            "feat": "Added more exciting features",
-        },
+            "feat": "Added more exciting features"
+        }
     ]
 }
