@@ -1,6 +1,6 @@
 {
-    "latest": 3.0,
-    "oldest": 2.0,
+    "latest": 3.1,
+    "oldest": 3.0,
     "forced": true,
     "features": [
         {
