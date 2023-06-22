@@ -1,7 +1,7 @@
 {
     "latest": "11.0",
     "oldest": "10.0",
-    "forced": false,
+    "forced": true,
     "features": [
         {
             "feat": "New UI"
