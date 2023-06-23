@@ -2,6 +2,7 @@
     "latest": "11.0",
     "oldest": "10.0",
     "forced": true,
+    "forcedMessage": "You are using an outdated version which is not supported anymore. Please update to the latest version now to continue using the app.",
     "features": [
         {
             "feat": "New UI"
