@@ -1,6 +1,6 @@
 {
     "latest": "10.0",
-    "oldest": "10.0",
+    "oldest": "9.1",
     "forced": true,
     "forcedMessage": "You are using an outdated version which is not supported anymore. Please update to the latest version now to continue using the app.",
     "features": [
