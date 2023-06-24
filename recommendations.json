@@ -1,0 +1,40 @@
+{
+    "description": "Explore popular devices, books and other gadgets amongst other BCA students.",
+    "products": [
+        {
+            "name": "Lenovo IdeaPad Slim 3 Intel Core i3 11th Gen 14 inch(35.56cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Arctic Grey/1.41Kg)",
+            "desc": "Ideal for general purpose programming",
+            "link": "https://amzn.to/43UsEqV",
+            "img": "",
+            "category": "Laptops"
+        },
+        {
+            "name": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/MS Office",
+            "desc": "Ideal for general purpose programming",
+            "link": "https://amzn.to/3PuZuKP",
+            "img": "",
+            "category": "Laptops"
+        },
+        {
+            "name": "HP 14s, 12th Gen Intel Core i5 16GB RAM/512GB SSD 14-inch(35.6 cm) Micro-Edge, FHD Laptop/Intel Iris Xe Graphics/Alexa/Dual Speakers/Win 11/Backlit KB/MSO",
+            "desc": "Recommended for developing mobile apps/games",
+            "link": "https://amzn.to/3NqsBft",
+            "img": "",
+            "category": "laptops"
+        },
+        {
+            "name": "Lenovo IdeaPad Slim 5 Intel Core i7 12th Gen 15.6-inch(39.62cm) FHD IPS Thin & Light Laptop (16GB/512GB SSD/Windows 11/Office 2021/Backlit/FPR/3months Game Pass/Storm Grey/1.85Kg)",
+            "desc": "Recommended for developing mobile apps/games",
+            "link": "https://amzn.to/3JwRBRf",
+            "img": "",
+            "category": "Laptops"
+        },
+        {
+            "name": "RoboCraze UNO R3 SMD Board compatible with Arduino | Development Board with USB cable",
+            "desc": "Microcontroller recommended for developing IoT projects",
+            "link": "https://amzn.to/3pnMTi0",
+            "img": "",
+            "category": "IoT"
+        }
+    ]
+}
