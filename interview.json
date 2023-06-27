@@ -4,162 +4,162 @@
         {
             "title": "Can you tell us about your educational background and how it relates to computer applications?",
             "content": "I completed my Bachelor's degree in Computer Applications from [University Name]. During my studies, I gained comprehensive knowledge and hands-on experience in various computer science concepts, including programming languages, databases, computer networks, software development, and web development. These subjects have provided me with a strong foundation in computer applications and have prepared me for various roles in the industry.",
-            "image": "https://drive.google.com/uc?id=18e9I-VNZbB85Xu6mSXUS6IkBqUmhJ-e2"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img002.jpeg"
         },
         {
             "title": "What programming languages are you proficient in?",
             "content": "I am proficient in several programming languages, including Java, C++, and Python. I have hands-on experience in developing projects using these languages, and I am comfortable with their syntax, libraries, and frameworks. For example, I have used Java to develop a student management system, C++ to create a simple game, and Python for data analysis and machine learning projects. I am also familiar with SQL, which is used for database management.",
-            "image": "https://drive.google.com/uc?id=1Ylg81QcmTHwt3nJB2GQYRhtgLSomaJAt"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img003.jpeg"
         },
         {
             "title": "Can you explain an algorithm and its importance?",
             "content": "An algorithm is a step-by-step procedure for solving a problem or accomplishing a task. It is a key tool in computer science, as it provides a systematic way of solving problems and making decisions. Algorithms are used in a wide range of applications, from simple arithmetic calculations to complex data analysis and machine learning. They are crucial for developing efficient and accurate solutions to complex problems, as they can automate repetitive tasks and reduce human error.",
-            "image": "https://drive.google.com/uc?id=1qFU1xD8IzNCWIm2e9_q898VUexZT79nv"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img004.jpeg"
         },
         {
             "title": "Can you explain data structures and their applications?",
             "content": "Data structures are the ways in which data is organized and stored in a computer. They play a crucial role in computer science, as they determine how data can be efficiently retrieved, manipulated, and stored. Some common data structures include arrays, linked lists, trees, and graphs. They are used in a wide range of applications, including database management, information retrieval, and algorithmic design. For example, trees are used in data compression algorithms, while graphs are used to represent relationships between objects.",
-            "image": "https://drive.google.com/uc?id=1WQU7Y3rfRDRidPJ8og5um2Y0XXY2Xqm3"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img005.jpeg"
         },
         {
             "title": "How familiar are you with databases and SQL?",
             "content": "I have a good understanding of databases and SQL. I have learned about relational databases and have experience with designing and implementing databases using SQL. I am familiar with SQL commands such as SELECT, INSERT, UPDATE, and DELETE, and I have used them to perform various database operations. I have also worked on projects that involved integrating databases with front-end applications.",
-            "image": "https://drive.google.com/uc?id=1LHV6KbI8EDJ241yP95y9QLYe80SpO0Nx"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img006.jpeg"
         },
         {
             "title": "Can you explain software development life cycle (SDLC)?",
             "content": "The software development life cycle (SDLC) is a process for creating software, which includes several stages, such as requirement gathering and analysis, design, implementation, testing, deployment, and maintenance. The goal of the SDLC is to provide a structured and systematic approach to software development, which helps to ensure that the software meets customer requirements, is of high quality, and is delivered on time. I have studied the various models of SDLC, such as the waterfall model and the Agile model, and I have experience working on projects that followed the SDLC process.",
-            "image": "https://drive.google.com/uc?id=1x8FPBMEhPFBZaxBWjNnq4LrnZSTZp5K9"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img007.jpeg"
         },
         {
             "title": "Can you explain the difference between a compiler and an interpreter?",
             "content": "A compiler is a program that translates high-level source code into machine code, which can be executed directly by the computer. A compiler generates a single executable file that contains all of the compiled code, which can be run on any machine that is compatible with the target architecture. An interpreter, on the other hand, is a program that executes source code directly, without the need for compiling it into machine code. Interpreters are typically used for scripting languages, such as Python, and they provide a more flexible and interactive development environment compared to compilers.",
-            "image": "https://drive.google.com/uc?id=1jQRUdHh_7MiKgZM7yK-qj2GNJjLxMLKr"
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img008.jpeg"
         },
         {
             "title": "How familiar are you with version control systems such as Git?",
             "content": "I am familiar with version control systems, and I have experience using Git for managing source code and collaborating with other developers. Git allows multiple developers to work on the same project simultaneously, and it provides a way to track changes to the source code, resolve conflicts, and revert to previous versions if necessary. I have used Git for personal projects as well as for group projects, and I am comfortable with using Git commands such as clone, checkout, commit, and push.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img009.jpeg"
         },
         {
             "title": "Can you tell us about your experience with mobile app development?",
             "content": "I have experience with developing mobile applications for Android and iOS platforms. I have used Java for Android app development and Swift for iOS app development. I have also used cross-platform development frameworks, such as React Native, to create apps that can run on both Android and iOS. I have worked on projects that involved integrating mobile apps with back-end services, and I am familiar with various mobile app development tools and technologies, such as Android Studio and Xcode.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img010.jpeg"
         },
         {
             "title": "Can you explain the difference between a static and a dynamic website?",
             "content": "A static website is a website that has fixed content that does not change, even when a user interacts with it. Static websites are typically created using HTML, CSS, and JavaScript, and they are easy to create and maintain. On the other hand, a dynamic website is a website that generates its content dynamically, based on user interactions and data stored in a database. Dynamic websites are typically created using server-side scripting languages, such as PHP or Node.js, and they allow for more complex and interactive user experiences.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img011.jpeg"
         },
         {
             "title": "Can you tell us about your experience with databases?",
             "content": "I have experience working with databases, both SQL and NoSQL databases. I have used SQL databases, such as MySQL and PostgreSQL, for data storage and retrieval, and I have used NoSQL databases, such as MongoDB and Cassandra, for large-scale data storage and processing. I am familiar with SQL commands for creating tables, inserting data, and retrieving data, and I have experience using ORM (Object-Relational Mapping) frameworks, such as Hibernate, to interact with databases from within my code.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img012.jpeg"
         },
         {
             "title": "Can you explain the difference between a client-side and a server-side scripting language?",
             "content": "Client-side scripting languages are executed by the client's browser, such as JavaScript, and they are used for creating interactive and dynamic user interfaces. Client-side scripts run on the client's device, which means that they do not require a connection to a server to execute. On the other hand, server-side scripting languages are executed on the server, such as PHP or Node.js, and they are used for generating dynamic web pages and processing user requests. Server-side scripts run on the server and generate the HTML that is sent to the client's browser, which then renders the web page.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img013.jpeg"
         },
         {
             "title": "Can you tell us about your experience with cloud computing platforms such as AWS or Azure?",
             "content": "I have some experience with cloud computing platforms, and I have worked with AWS and Azure. Cloud computing platforms allow developers to host their applications and services on remote servers, and they provide various benefits, such as scalability, reliability, and cost savings. I have used cloud computing platforms to host web applications, databases, and other services, and I am familiar with various cloud computing concepts, such as virtual machines, storage, and networking.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img014.jpeg"
         },
         {
             "title": "Can you explain the difference between a router and a switch?",
             "content": "A router is a device that is used to connect different networks, such as a LAN (Local Area Network) and a WAN (Wide Area Network). Routers are responsible for forwarding data packets between networks, and they use routing algorithms to determine the best path for the data packets to take. Routers also provide network security and can be used to set up virtual private networks (VPNs). On the other hand, a switch is a device that is used to connect devices within a single network, such as a LAN. Switches are responsible for forwarding data packets between devices on the same network, and they use MAC addresses to determine which device should receive the data packets.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img015.jpeg"
         },
         {
             "title": "Can you explain the difference between a stack and a queue data structure?",
             "content": "A stack is a linear data structure in which elements are added and removed in a last-in, first-out (LIFO) order. In other words, the most recently added element is the first to be removed. This data structure can be useful for certain types of problems, such as backtracking or undo operations. On the other hand, a queue is a linear data structure in which elements are added and removed in a first-in, first-out (FIFO) order. In other words, the first element to be added is the first to be removed. Queues are commonly used for tasks that require elements to be processed in the order in which they were received.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img016.jpeg"
         },
         {
             "title": "Can you explain the concept of OOP (Object-Oriented Programming)?",
             "content": "Object-Oriented Programming (OOP) is a programming paradigm that is based on the concept of objects. Objects are instances of classes, which are blueprint definitions for creating objects. In OOP, objects are used to encapsulate data and the functions that operate on that data. This encapsulation allows for code reuse, as well as the ability to model real-world objects and their behavior in the code. OOP also includes concepts such as inheritance, which allows objects to inherit properties and behavior from parent classes, and polymorphism, which allows objects to take on different forms.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img017.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “database normalization”?",
             "content": "Database normalization is a process used to organize data in a relational database to reduce data redundancy and improve data integrity. The goal of normalization is to ensure that data is stored in a way that eliminates redundancy, reduces the risk of data inconsistencies, and makes it easier to modify data in the future. Normalization involves dividing a database into two or more tables and defining relationships between the tables. This helps to reduce data duplication and ensures that data is stored in a consistent, organized manner.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img018.jpeg"
         },
         {
             "title": "Can you explain the difference between a join and a union in SQL?",
             "content": "A join in SQL is a way to combine rows from two or more tables based on a related column between them. Joins are used to return data from multiple tables as if they were a single table. There are several types of joins, including inner join, left join, right join, and full outer join, each of which returns a different subset of the data.\n\nA union in SQL is a way to combine the results of two or more SELECT statements into a single result set. Unlike a join, a union does not combine data based on a related column. Instead, it combines the rows returned by each SELECT statement into a single result set. The number of columns and data types must be the same in each SELECT statement used in a union.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img019.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term \"software testing\"?",
             "content": "Software testing is the process of evaluating a software system or its components with the intent of finding errors, faults, or defects. Software testing helps ensure that a software system meets its specified requirements and works as intended. There are various types of software testing, including unit testing, integration testing, functional testing, performance testing, and security testing, each with its own goals and objectives. Software testing is a critical aspect of software development and helps ensure that software systems are of high quality and reliable. Effective software testing requires careful planning, execution, and documentation, and it is important to choose the right testing methods and techniques for a particular software system.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img020.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “responsive design” in web development?",
             "content": "Responsive design is a method of web design that enables a website to dynamically adjust its layout and content based on the size and orientation of the device being used to view the site. This approach allows websites to be optimized for display on a wide range of devices, including desktop computers, laptops, tablets, and smartphones. Responsive design is achieved through the use of CSS media queries, which detect the size and orientation of the device being used and apply styles that adjust the layout of the site accordingly.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img021.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “caching” in web development?",
             "content": "Caching is a technique used in web development to store data temporarily in order to improve the performance of a website. When a user visits a website, their browser stores a copy of some or all of the site’s content, such as images, HTML, and CSS, in a cache. This allows the browser to load the site more quickly on subsequent visits, as the content can be retrieved from the cache instead of being downloaded from the server each time. Caching can also be used at the server level, where frequently-used data can be stored in memory for quick access.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img022.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “server-side scripting” in web development?",
             "content": "Server-side scripting refers to the practice of executing scripts on the server, rather than on the client’s device, in order to generate dynamic web pages. In server-side scripting, the server processes the scripts and generates the HTML that is sent to the client’s browser to be rendered. This allows for the creation of dynamic, interactive websites that can respond to user input and display up-to-date data. Server-side scripting languages, such as PHP, Ruby on Rails, and ASP.NET, can be used to create a wide range of web applications, from simple websites to complex e-commerce systems.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img023.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “APIs” (Application Programming Interfaces)?",
             "content": "Application Programming Interfaces (APIs) are a set of protocols and routines for accessing a web-based software application or web tool. An API defines the way that different software components should interact, and allows for the creation of custom applications that can access and manipulate data from other software systems. For example, an API for a social media platform might allow developers to access data about users, such as their profile information and posts, and to post updates to the platform on behalf of users. APIs can be used to create a wide range of applications, from simple data visualization tools to complex mobile apps.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img024.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “scalability” in web development?",
             "content": "Scalability in web development refers to the ability of a system or application to handle increased traffic and demand as it grows over time. Scalability is an important consideration in web development, as applications can become very popular very quickly, and can experience sudden spikes in traffic. To ensure scalability, web applications need to be designed and built with the ability to handle increased traffic, and to scale up as needed to meet demand. This can involve using technologies such as load balancing, caching, and cloud computing to distribute the load across multiple servers and improve the performance of the application.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img025.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “CRUD” in web development?",
             "content": "CRUD stands for Create, Read, Update, and Delete, and refers to the basic operations that can be performed on data in a database. In web development, CRUD is often used to describe the functionality of a web application that allows users to create, view, update, and delete records in a database. For example, an e-commerce site might implement CRUD functionality for products, allowing users to create new products, view a list of existing products, update product details, and delete products. CRUD functionality is a common requirement for many web applications, and is often implemented using a combination of HTML, CSS, JavaScript, and a server-side programming language such as PHP or Ruby.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img026.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “content management system (CMS)”?",
             "content": "A Content Management System (CMS) is a software application that is used to manage and organize digital content, such as text, images, and videos. CMSs are commonly used in web development to create and manage websites, and provide an easy-to-use interface for non-technical users to add, update, and delete content on a website. CMSs can also be used to manage other types of digital content, such as documents, images, and audio files. Some popular CMSs for web development include WordPress, Drupal, and Joomla, among others.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img027.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “front-end development”?",
             "content": "Front-end development refers to the part of web development that focuses on the user interface of a web application, or the \"front-end\". Front-end developers use HTML, CSS, and JavaScript to create the look and feel of a web application, and to make it interactive and responsive to user actions. Front-end developers are responsible for creating the visual design, layout, and behavior of a website, and for ensuring that it is optimized for different devices and screen sizes. Front-end development plays a critical role in the overall user experience of a web application.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img028.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term “prototyping” in web development?",
             "content": "Prototyping in web development refers to the process of creating a preliminary version of a web application to test and refine its design and functionality. Prototyping allows designers and developers to quickly create a functional model of a web application, and to test it with users or stakeholders. This feedback can then be used to improve the design and functionality of the final product. Prototyping can be done using a variety of tools, such as paper sketches, wireframes.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img029.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term \"network topology\"?",
             "content": "Network topology refers to the physical and logical arrangement of devices and connections in a computer network. It defines how devices are connected and how data is transmitted between them. There are various types of network topologies, including bus, star, ring, mesh, and tree topologies, each with its own advantages and disadvantages. Network topology affects the performance, security, and reliability of a network, and choosing the right network topology for a particular network depends on a number of factors, including the size and complexity of the network, the types of devices and applications used, and the desired level of security and reliability.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img030.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term \"cloud computing\"?",
             "content": "Cloud computing is a model for delivering IT services and resources over the internet, rather than through local data centers or personal devices. It involves using remote servers, hosted by a cloud service provider, to store, process, and manage data and applications. Cloud computing offers a number of benefits, including increased scalability, flexibility, and accessibility, as well as lower costs and improved security compared to traditional IT solutions. There are various types of cloud computing, including public, private, and hybrid clouds, each with its own advantages and disadvantages, and choosing the right type of cloud computing solution depends on a number of factors, including data security, privacy, and regulatory requirements.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img031.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term \"encryption\"?",
             "content": "Encryption is a process of transforming information or data into an unreadable format, in order to protect it from unauthorized access. Encryption uses mathematical algorithms, known as encryption keys, to scramble the data into an unreadable form, and a separate key, known as a decryption key, is required to unscramble the data and reveal the original information. Encryption is used to protect sensitive information, such as credit card numbers, passwords, and confidential documents, and it helps ensure the privacy and security of data in transit and at rest. There are various types of encryption algorithms, including symmetric and asymmetric encryption, and choosing the right encryption method for a particular scenario depends on a number of factors, including security requirements, performance, and ease of use.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img032.jpeg"
         },
         {
             "title": "Can you explain what is meant by the term \"firewall\"?",
             "content": "A firewall is a security system that acts as a barrier between a computer network and the internet, or between a computer network and an internal network. A firewall monitors and controls incoming and outgoing network traffic based on security rules, and it helps prevent unauthorized access and protect against cyber attacks. Firewalls can be hardware-based, software-based, or a combination of both, and they can be used to implement network security policies, such as access control, data filtering, and network address translation (NAT). Firewalls are a critical component of network security and play a key role in helping protect against cyber threats, such as malware, viruses, and hacking attacks.",
-            "image": ""
+            "img": "https://raw.githubusercontent.com/VibhorDev/mydata/main/interviewPhotos/img033.jpeg"
         }
     ]
 }
