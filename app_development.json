@@ -1,6 +1,6 @@
 {
-    "banner": "https://drive.google.com/uc?id=1-B9N5fC2DJ2__RkT9gqRMU_zWCVm65Oi",
-    "appDevelopmentContent": "Mobile development offers you numerous benefits, it not only enhances your programming skills but also opens up a wide range of career opportunities. With React Native, a popular framework, you can create cross-platform mobile applications using JavaScript. This equips you with a versatile skill set highly valued by employers, thereby expanding your career prospects in the mobile development industry. \n\nIn this section you will learn the basics of mobile application development using React Native framework.",
+    "banner": "https://raw.githubusercontent.com/VibhorDev/mydata/main/miscellaneousPhotos/app_dev.jpg",
+    "appDevelopmentContent": "Mobile development offers benefits like skill enhancement and career opportunities. React Native allows cross-platform mobile app development using JavaScript for Android and iOS with a single code base. This versatile skill set is valued by employers, expanding career prospects. \n\nIn this section you will learn the basics of mobile application development using React Native.",
     "app_development": [
         {
             "title": "What is React Native?",
