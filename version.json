@@ -1,14 +1,11 @@
 {
-    "latest": "10.2",
-    "oldest": "10.1",
+    "latest": "10.71",
+    "oldest": "10.0",
     "forced": false,
     "forcedMessage": "You are using an outdated version which is not supported anymore. Please update to the latest version now to continue using the app.",
     "features": [
         {
-            "feat": "Fixed issue when server stops responding"
-        },
-        {
-            "feat": "Fixed minor bugs"
+            "feat": "• Fixed bugs related to app crash 🐛"
         }
     ]
 }
