@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the output of the following code?",
+        "A": "10",
+        "B": "11",
+        "C": "9",
+        "D": "12",
+        "code": "#include<stdio.h>\nint main()\n{\n   int x=10;\n   printf(\"%d\",++x);\n   return 0;\n}",
+        "answer": "B"
+    },
+    {
+        "question": "What is the correct syntax to declare a constant in C?",
+        "A": "const int x=10;",
+        "B": "int const x=10;",
+        "C": "x=10 const int;",
+        "D": "int x=const 10;",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the difference between a local and global variable in C?",
+        "A": "Local variables are defined inside a function, while global variables are defined outside of any function.",
+        "B": "Global variables are defined inside a function, while local variables are defined outside of any function.",
+        "C": "There is no difference between local and global variables.",
+        "D": "Local variables are used in C, while global variables are used in C++.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of the following code?",
+        "A": "10 11",
+        "B": "15 11",
+        "C": "15 12",
+        "D": "10 10",
+        "code": "#include<stdio.h>\nint main()\n{\n   int x=5,y=10;\n   x=y++ + ++y;\n   printf(\"%d %d\",x,y);\n   return 0;\n}",
+        "answer": "C"
+    },
+    {
+        "question": "What is the purpose of the sizeof operator in C?",
+        "A": "To get the size of a data type.",
+        "B": "To get the size of a variable.",
+        "C": "To get the size of an array.",
+        "D": "To get the size of a structure.",
+        "code": "",
+        "answer": "B"
+    },
+    {
+        "question": "What is the output of the following code?",
+        "A": "Even",
+        "B": "Odd",
+        "C": "Nothing",
+        "D": "Error",
+        "code": "#include<stdio.h>\nint main()\n{\n   int x=10;\n   if(x>0)\n   {\n      if(x%2==0)\n         printf(\"Even\");\n      else\n         printf(\"Odd\");\n   }\n   return 0;\n}",
+        "answer": "A"
+    },
+    {
+        "question": "What is the difference between a for loop and a while loop in C?",
+        "A": "A for loop is executed a specific number of times, while a while loop is executed until a certain condition is met.",
+        "B": "A while loop is executed a specific number of times, while a for loop is executed until a certain condition is met.",
+        "C": "There is no difference between a for loop and a while loop.",
+        "D": "A for loop is used in C++, while a while loop is used in C.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of the if statement in C?",
+        "A": "To execute a block of code if a condition is true.",
+        "B": "To execute a block of code if a condition is false.",
+        "C": "To execute a block of code repeatedly.",
+        "D": "To execute a block of code only once.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the correct syntax to include a header file in C?",
+        "A": "include<stdio.h>",
+        "B": "#include<stdio.h>",
+        "C": "#include stdio.h;",
+        "D": "include stdio.h;",
+        "code": "",
+        "answer": "B"
+    },
+    {
+        "question": "What data type is used to store decimal values in C?",
+        "A": "int",
+        "B": "char",
+        "C": "float",
+        "D": "double",
+        "code": "",
+        "answer": "C"
+    },
+    {
+        "question": "What is the purpose of the break statement in C?",
+        "A": "To exit a loop.",
+        "B": "To skip an iteration of a loop.",
+        "C": "To execute a block of code repeatedly.",
+        "D": "To execute a block of code if a condition is true.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of the following code?",
+        "A": "5",
+        "B": "10",
+        "C": "2",
+        "D": "50",
+        "code": "#include<stdio.h>\nint main()\n{\n   int x=10, y=5;\n   printf(\"%d\", x*y);\n   return 0;\n}",
+        "answer": "D"
+    },
+    {
+        "question": "What is the purpose of the while loop in C?",
+        "A": "To execute a block of code repeatedly as long as a condition is true.",
+        "B": "To execute a block of code repeatedly for a fixed number of times.",
+        "C": "To execute a block of code if a condition is true.",
+        "D": "To execute a block of code only once.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the size of an int data type in C?",
+        "A": "4 bytes",
+        "B": "2 bytes",
+        "C": "8 bytes",
+        "D": "It varies depending on the system.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of the do-while loop in C?",
+        "A": "To execute a block of code repeatedly as long as a condition is true.",
+        "B": "To execute a block of code repeatedly for a fixed number of times.",
+        "C": "To execute a block of code if a condition is true.",
+        "D": "To execute a block of code only once.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the correct syntax to return a value from a function in C?",
+        "A": "return value;",
+        "B": "return (value);",
+        "C": "(return value);",
+        "D": "value return;",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the purpose of the switch statement in C?",
+        "A": "To execute a block of code based on the value of an expression.",
+        "B": "To execute a block of code repeatedly for a fixed number of times.",
+        "C": "To execute a block of code repeatedly as long as a condition is true.",
+        "D": "To execute a block of code if a condition is true.",
+        "code": "",
+        "answer": "A"
+    },
+    {
+        "question": "What is the output of the following code?",
+        "A": "2",
+        "B": "5",
+        "C": "0",
+        "D": "10",
+        "code": "#include<stdio.h>\nint main()\n{\n   int x=10, y=5;\n   printf(\"%d\", x%y);\n   return 0;\n}",
+        "answer": "C"
+    },
+    {
+        "question": "What is the output of the following code?",
+        "A": "2",
+        "B": "5",
+        "C": "7",
+        "D": "10",
+        "code": "#include<stdio.h>\nint main()\n{\n   int x=5;\n   x=x+2;\n   printf(\"%d\",x);\n   return 0;\n}",
+        "answer": "C"
+    },
+    {
+        "question": "What is the purpose of the printf function in C?",
+        "A": "To read user input from the keyboard.",
+        "B": "To print text and data on the console.",
+        "C": "To allocate memory dynamically.",
+        "D": "To control program flow.",
+        "code": "",
+        "answer": "B"
+    }
+]
