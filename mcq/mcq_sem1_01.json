@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "question": "What is the output of the following code?",
         "A": "10",
         "B": "11",
@@ -10,7 +10,7 @@
         "answer": "B"
     },
     {
-        "id": 2,
+        "id": 1,
         "question": "What is the correct syntax to declare a constant in C?",
         "A": "const int x=10;",
         "B": "int const x=10;",
@@ -20,7 +20,7 @@
         "answer": "A"
     },
     {
-        "id": 3,
+        "id": 2,
         "question": "What is the difference between a local and global variable in C?",
         "A": "Local variables are defined inside a function, while global variables are defined outside of any function.",
         "B": "Global variables are defined inside a function, while local variables are defined outside of any function.",
@@ -30,7 +30,7 @@
         "answer": "A"
     },
     {
-        "id": 4,
+        "id": 3,
         "question": "What is the output of the following code?",
         "A": "10 11",
         "B": "15 11",
@@ -40,7 +40,7 @@
         "answer": "C"
     },
     {
-        "id": 5,
+        "id": 4,
         "question": "What is the purpose of the sizeof operator in C?",
         "A": "To get the size of a data type.",
         "B": "To get the size of a variable.",
@@ -50,7 +50,7 @@
         "answer": "B"
     },
     {
-        "id": 6,
+        "id": 5,
         "question": "What is the output of the following code?",
         "A": "Even",
         "B": "Odd",
@@ -60,7 +60,7 @@
         "answer": "A"
     },
     {
-        "id": 7,
+        "id": 6,
         "question": "What is the difference between a for loop and a while loop in C?",
         "A": "A for loop is executed a specific number of times, while a while loop is executed until a certain condition is met.",
         "B": "A while loop is executed a specific number of times, while a for loop is executed until a certain condition is met.",
@@ -70,7 +70,7 @@
         "answer": "A"
     },
     {
-        "id": 8,
+        "id": 7,
         "question": "What is the purpose of the if statement in C?",
         "A": "To execute a block of code if a condition is true.",
         "B": "To execute a block of code if a condition is false.",
@@ -80,7 +80,7 @@
         "answer": "A"
     },
     {
-        "id": 9,
+        "id": 8,
         "question": "What is the correct syntax to include a header file in C?",
         "A": "include<stdio.h>",
         "B": "#include<stdio.h>",
@@ -90,7 +90,7 @@
         "answer": "B"
     },
     {
-        "id": 10,
+        "id": 9,
         "question": "What data type is used to store decimal values in C?",
         "A": "int",
         "B": "char",
@@ -100,7 +100,7 @@
         "answer": "C"
     },
     {
-        "id": 11,
+        "id": 10,
         "question": "What is the purpose of the break statement in C?",
         "A": "To exit a loop.",
         "B": "To skip an iteration of a loop.",
@@ -110,7 +110,7 @@
         "answer": "A"
     },
     {
-        "id": 12,
+        "id": 11,
         "question": "What is the output of the following code?",
         "A": "5",
         "B": "10",
@@ -120,7 +120,7 @@
         "answer": "D"
     },
     {
-        "id": 13,
+        "id": 12,
         "question": "What is the purpose of the while loop in C?",
         "A": "To execute a block of code repeatedly as long as a condition is true.",
         "B": "To execute a block of code repeatedly for a fixed number of times.",
@@ -130,7 +130,7 @@
         "answer": "A"
     },
     {
-        "id": 14,
+        "id": 13,
         "question": "What is the size of an int data type in C?",
         "A": "4 bytes",
         "B": "2 bytes",
@@ -140,7 +140,7 @@
         "answer": "A"
     },
     {
-        "id": 15,
+        "id": 14,
         "question": "What is the purpose of the do-while loop in C?",
         "A": "To execute a block of code repeatedly as long as a condition is true.",
         "B": "To execute a block of code repeatedly for a fixed number of times.",
@@ -150,8 +150,8 @@
         "answer": "A"
     },
     {
-        "id": 16,
-        "question": "What is the correct syntax to return a value from a function in C?",
+        "id": 15,
+        "question": "What is the purpose of the switch statement in C?",
         "A": "return value;",
         "B": "return (value);",
         "C": "(return value);",
@@ -160,8 +160,8 @@
         "answer": "A"
     },
     {
-        "id": 17,
-        "question": "What is the purpose of the switch statement in C?",
+        "id": 16,
+        "question": "",
         "A": "To execute a block of code based on the value of an expression.",
         "B": "To execute a block of code repeatedly for a fixed number of times.",
         "C": "To execute a block of code repeatedly as long as a condition is true.",
@@ -170,7 +170,7 @@
         "answer": "A"
     },
     {
-        "id": 18,
+        "id": 17,
         "question": "What is the output of the following code?",
         "A": "2",
         "B": "5",
@@ -180,7 +180,7 @@
         "answer": "C"
     },
     {
-        "id": 19,
+        "id": 18,
         "question": "What is the output of the following code?",
         "A": "2",
         "B": "5",
@@ -190,7 +190,7 @@
         "answer": "C"
     },
     {
-        "id": 20,
+        "id": 19,
         "question": "What is the purpose of the printf function in C?",
         "A": "To read user input from the keyboard.",
         "B": "To print text and data on the console.",
