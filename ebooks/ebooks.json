@@ -1,0 +1,38 @@
+{
+    "C": [
+        {
+            "book": "Let Us See - Yashwant",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/Let Us See - Yashwant.pdf"
+        },
+        {
+            "book": "The Basics of C Programming - Marshall Brain",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/The Basics of C Programming - Marshall Brain.pdf"
+        },
+        {
+            "book": "The C Book - Mike Banahan",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/The C Book - Mike Banahan.pdf"
+        }
+    ],
+    "C++": [
+        {
+            "book": "Think C++ - Allen B. Downey",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/Think C++ - Allen B. Downey.pdf"
+        }
+    ],
+    "Java": [
+        {
+            "book": "Introduction to Programming using Java - David J. Eck.pdf",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/Introduction to Programming using Java - David J. Eck.pdf"
+        }
+    ],
+    "SQL": [
+        {
+            "book": "SQL Queries Succinctly - Nick Harrison",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/SQL Queries Succinctly - Nick Harrison.pdf"
+        },
+        {
+            "book": "Introduction To SQL - Bobby Iliev",
+            "urls": "https://raw.githubusercontent.com/VibhorDev/mydata/main/ebooks/Introduction%20To%20SQL%20-%20Bobby%20Iliev.pdf"
+        }
+    ]
+}
