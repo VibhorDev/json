@@ -1,11 +1,14 @@
 {
-    "latest": "10.71",
+    "latest": "10.8",
     "oldest": "10.0",
     "forced": false,
     "forcedMessage": "You are using an outdated version which is not supported anymore. Please update to the latest version now to continue using the app.",
     "features": [
         {
-            "feat": "• Fixed bugs related to app crash 🐛"
+            "feat": "• Dark theme added"
+        },
+        {
+            "feat": "• Free Ebooks added"
         }
     ]
 }
