@@ -1,8 +1,8 @@
 {
     "latest": "10.1",
     "oldest": "10.0",
-    "latestVersion": 109,
-    "oldestVersion": 110,
+    "latestVersion": 110,
+    "oldestVersion": 100,
     "forced": true,
     "features": [
         {
