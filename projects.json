@@ -1,8 +1,11 @@
 [
     {
-      "name": "react-native-get-ideas",
-      "link": "https://github.com/DevVibhor/react-native-get-ideas",
-      "tech": { "languages": "JavaScript, JSX", "framework": "React Native" },
-      "desc": "Get Ideas is a mobile app built using React Native that helps users to generate ideas for various purposes. Selected ideas can be set as reminders in phone's calendar.",
-    },
-  ]
+        "name": "react-native-get-ideas",
+        "link": "https://github.com/DevVibhor/react-native-get-ideas",
+        "tech": {
+            "languages": "JavaScript, JSX",
+            "framework": "React Native"
+        },
+        "desc": "Get Ideas is a mobile app built using React Native that helps users to generate ideas for various purposes. Selected ideas can be set as reminders in phone's calendar."
+    }
+]
