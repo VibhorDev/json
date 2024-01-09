@@ -1,15 +1,18 @@
 {
-    "latest": "10.1",
+    "latest": "10.85",
     "oldest": "10.0",
-    "latestVersion": 109,
+    "latestVersion": 116,
     "oldestVersion": 100,
     "forced": false,
     "features": [
         {
-            "feat": "• Dark theme added"
+            "feat": "• We've removed ads for a smoother experience!"
         },
         {
-            "feat": "• Free Ebooks added"
+            "feat": "• Run code with our newly optimized compiler"
+        },
+        {
+            "feat": "• Addition of the 6th Sem!"
         }
     ]
 }
